@@ -16,7 +16,7 @@ local SelfModules = {
 }
 
 local Assets = {
-    Door = game:GetObjects("rbxassetid://11758308456")[1],
+    Door = game:GetObjects("rbxassetid://11769863238")[1],
 }
 
 local DoorReplication = {}
